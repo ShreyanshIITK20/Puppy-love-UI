@@ -48,6 +48,21 @@
     padding: 1% 15%;
 }
 
+.hobby1{
+    color: red;
+}
+.hobby2{
+    color: blue;
+}
+.hobby3{
+    color:green;
+}
+
+/* thoughts section */
+#thoughts_images{
+    padding: 0% 15%;
+    text-align: center;
+}
 /* stats section */
 .col-lg-4{
     padding-bottom: 10%;
